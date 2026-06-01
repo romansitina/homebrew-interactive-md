@@ -1,11 +1,11 @@
 cask "interactive-md-preview" do
   arch arm: "arm64", intel: "x64"
 
-  version "1.0.0-preview.20260528.31"
-  sha256 arm:   "6517f92cf677406456404e54c1400115f6891efedde3397b738c7bb99a914eaf",
-         intel: "9323fc14fec44e0bbdb8e3f10002f5cf0a7843216eaeea96e427b08eea2aea97"
+  version "1.0.0-preview.20260601.33"
+  sha256 arm:   "6daeaa39d44f65c4117fd2ceb37a1686ab64baaddd18fde63ab21a17618dad4d",
+         intel: "cc90c005938d6fa149b9c83486c92a88209d84f06cbac371e11cf7b30850080f"
 
-  url "https://github.com/romansitina/homebrew-interactive-md/releases/download/preview/interactive.md-1.0.0-preview.20260528.31-#{arch}.dmg"
+  url "https://github.com/romansitina/homebrew-interactive-md/releases/download/preview/interactive.md-1.0.0-preview.20260601.33-#{arch}.dmg"
   name "interactive.md Preview"
   desc "Interactive markdown project workspace preview builds"
   homepage "https://github.com/romansitina/homebrew-interactive-md"
